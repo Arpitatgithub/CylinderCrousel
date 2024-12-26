@@ -37,6 +37,4 @@ mipmapBlur
 
 export default App;
 
-
-
 // npm run dev
